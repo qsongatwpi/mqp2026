@@ -8,5 +8,5 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-- First
+- [PINNs Solver: First order ODE on one dimensional domain](./scripts/ode_1o_1d.ipynb)
 - Second
