@@ -1,0 +1,49 @@
+\documentclass[11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+
+\title{AMS \LaTeX{} Template}
+\author{}
+\date{\today}
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+\begin{document}
+
+%\maketitle
+
+\noindent
+Goal: Let $c$ be a constant. Use a physics-informed neural network (PINN) to solve the second-order linear non-homogeneous ordinary differential equation
+\begin{equation}
+    c u'' + u' = x, \quad x \in (0,1)
+\end{equation}
+subject to the boundary conditions
+\begin{equation}
+    u(0) = 0, \quad u(1) = 1
+\end{equation}
+
+\noindent
+Task 1: Prove that the exact solution of the ODE is, 
+for $c \neq 0$,
+\begin{equation}
+            u(x) = \left( \frac{c + \frac{1}{2}}{1 - e^{-\frac{1}{c}}} \right) \left( 1 - e^{-\frac{x}{c}} \right) + \frac{1}{2}x^2 - cx
+\end{equation}
+
+\noindent
+Task 2: What is the exact solution of the ODE when $c = 0$?
+
+\noindent
+Task 3: Implement a PINN to approximate the solution of the ODE when $c \neq 0$, and compare the numerical approximation with the exact solution.
+
+\end{document}
