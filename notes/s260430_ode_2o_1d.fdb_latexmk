@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1777550059.20006 "/Users/qsong/Documents/GitHub/mqp2026/notes/s260430_ode_2o_1d.tex" "s260430_ode_2o_1d.pdf" "s260430_ode_2o_1d" 1777550059.65767 0
-  "/Users/qsong/Documents/GitHub/mqp2026/notes/s260430_ode_2o_1d.tex" 1777550059.08201 1329 19baa5e74366dffc3132f0de8a82fa58 ""
+["pdflatex"] 1777551645.29201 "/Users/qsong/Documents/GitHub/mqp2026/notes/s260430_ode_2o_1d.tex" "s260430_ode_2o_1d.pdf" "s260430_ode_2o_1d" 1777551645.86234 0
+  "/Users/qsong/Documents/GitHub/mqp2026/notes/s260430_ode_2o_1d.tex" 1777551645.16649 1329 19baa5e74366dffc3132f0de8a82fa58 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -76,8 +76,8 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1755111313 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "s260430_ode_2o_1d.aux" 1777550059.5917 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "s260430_ode_2o_1d.tex" 1777550059.08201 1329 19baa5e74366dffc3132f0de8a82fa58 ""
+  "s260430_ode_2o_1d.aux" 1777551645.7125 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "s260430_ode_2o_1d.tex" 1777551645.16649 1329 19baa5e74366dffc3132f0de8a82fa58 ""
   (generated)
   "s260430_ode_2o_1d.aux"
   "s260430_ode_2o_1d.log"
